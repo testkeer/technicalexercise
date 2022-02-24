@@ -10,14 +10,3 @@ Feature: To add ANZ bank account in Xero organisation
     When the user adds Bank Account details in Bank Account page
     Then the bank account details are added successfully
     And logout from the application and close the browser
-    
- # About the framework: 
- # This is a maven project with cucumber BDD framework using selenium webdriver and java language with junit framework
- 
- # Steps to execute:
- # right click in AddBankAccount.feature file and click on Run As Cucumber Feature
- 
-
-  
-    
-    
